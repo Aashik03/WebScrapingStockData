@@ -1,11 +1,11 @@
 # WebScrapingStockData
-A Python project to scrape stock prices and financial data from **Meroshare** and store selected information in a PostgreSQL database. Built using **Beautiful Soup** and **requests**, this project demonstrates web scraping, data cleaning, and database integration.
+A Python project to scrape stock prices and financial data from **Merolagani** and store selected information in a PostgreSQL database. Built using **Beautiful Soup** and **requests**, this project demonstrates web scraping, data cleaning, and database integration.
 
 ---
 
 ## Features
 
-- Scrapes stock data from Meroshare using stock symbols.  
+- Scrapes stock data from Merolagani using stock symbols.  
 - Extracts key financial information:
   - Market Price  
   - Percentage Change  
